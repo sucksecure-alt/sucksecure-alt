@@ -29,13 +29,6 @@
 | 🐕 [botnet-bounty-hacking](https://github.com/sucksecure-alt/botnet-bounty-hacking) | managing bug-bounty agents like a pack of hunting dogs — a how-to |
 | ⚙️ [Macbook-booster-Tahoe-27-Mac-os-optimization](https://github.com/sucksecure-alt/Macbook-booster-Tahoe-27-Mac-os-optimization) | macOS 26/27 Tahoe performance optimizer for MacBooks |
 
-### 🔁 hunt flow
-
-```text
-recon ──▶ fuzz ──▶ break ──▶ weaponize ──▶ report ──▶ repeat
-  ▲                                                       │
-  └───────────────────────────────────────────────────────┘
-```
 ### 📡 связи · where to find me
 
 **эволюция каналов:**
@@ -82,10 +75,6 @@ recon ──▶ fuzz ──▶ break ──▶ weaponize ──▶ report ──
   <a href="https://t.me/heartbleeed"><img src="https://img.shields.io/badge/channel-bleeding_in_the_system-FF2B2B?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=FF2B2B" alt="channel"></a>
   <a href="https://t.me/heartbIeed"><img src="https://img.shields.io/badge/personal-@heartbIeed-FF2B2B?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=FF2B2B" alt="personal"></a>
   <a href="https://bugbounty.bi.zone/profile/Heartbleed/hackactivity"><img src="https://img.shields.io/badge/BI.ZONE-30%2B_reports-FF2B2B?style=flat-square&labelColor=0D1117" alt="bizone"></a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sucksecure-alt/count.svg" alt="views">
 </p>
 
 <p align="center"><sub>© 2026 Heartbleed · heartbleed.ru</sub></p>
