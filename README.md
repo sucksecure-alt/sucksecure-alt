@@ -61,10 +61,6 @@
   <img src="https://streak-stats.demolab.com/?user=sucksecure-alt&theme=dark&hide_border=true&background=00000000&ring=FF2B2B&fire=FF6B6B&currStreakLabel=FF2B2B&sideLabels=FF2B2B&dates=9DA5B0" alt="streak">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sucksecure-alt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies">
-</p>
-
 ---
 
 <p align="center">
@@ -76,5 +72,4 @@
   <a href="https://t.me/heartbIeed"><img src="https://img.shields.io/badge/personal-@heartbIeed-FF2B2B?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=FF2B2B" alt="personal"></a>
   <a href="https://bugbounty.bi.zone/profile/Heartbleed/hackactivity"><img src="https://img.shields.io/badge/BI.ZONE-30%2B_reports-FF2B2B?style=flat-square&labelColor=0D1117" alt="bizone"></a>
 </p>
-тест
 <p align="center"><sub>© 2026 Heartbleed · heartbleed.ru</sub></p>
