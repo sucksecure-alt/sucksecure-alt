@@ -76,5 +76,5 @@
   <a href="https://t.me/heartbIeed"><img src="https://img.shields.io/badge/personal-@heartbIeed-FF2B2B?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=FF2B2B" alt="personal"></a>
   <a href="https://bugbounty.bi.zone/profile/Heartbleed/hackactivity"><img src="https://img.shields.io/badge/BI.ZONE-30%2B_reports-FF2B2B?style=flat-square&labelColor=0D1117" alt="bizone"></a>
 </p>
-
+тест
 <p align="center"><sub>© 2026 Heartbleed · heartbleed.ru</sub></p>
