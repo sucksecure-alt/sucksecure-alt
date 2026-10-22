@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2100&pause=900&color=FF2B2B&center=true&vCenter=true&width=780&height=44&lines=Bug+bounty+hunter;Web+security+Researcher;Mentor;;Author+heartbleed.ru" alt="typing" />
+ <a><img src="https://img.shields.io/badge/heartbleed.ru-blog_%26_research-FF2B2B?style=flat-square&labelColor=0D1117" alt="тест"></a>
 </p>
 
 <p align="center">
