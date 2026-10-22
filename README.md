@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2100&pause=900&color=FF2B2B&center=true&vCenter=true&width=780&height=44&lines=bug+bounty+hunter;web+security+researcher;author+of+BleedSuite;xss+%2F+ssrf+%2F+idor+%2F+race+conditions;heartbleed.ru" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2100&pause=900&color=FF2B2B&center=true&vCenter=true&width=780&height=44&lines=Bug+bounty+hunter;Web+security+Researcher;Mentor;;Author heartbleed.ru" alt="typing" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 🗂 pinned operations
 
-| op | intel |
+| top projects | links |
 | --- | --- |
 | 🩸 [BleedSuite](https://github.com/sucksecure-alt/BleedSuite) | native Swift Burp Suite equivalent from heartbleed.ru — proxy, repeat, intrude, bleed |
 | 💉 [personal-xss-payloads-by-heartbleed](https://github.com/sucksecure-alt/personal-xss-payloads-by-heartbleed) | personal XSS payload arsenal, field-tested on bug bounty |
