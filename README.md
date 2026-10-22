@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2100&pause=100000color=FF2B2B&center=true&vCenter=true&width=780&height=44&lines=Web+security+Researcher" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2100&pause=100000&color=FF2B2B&center=true&vCenter=true&width=780&height=44&lines=Web+security+Researcher" alt="typing" />
 </p>
 
 <p align="center">
