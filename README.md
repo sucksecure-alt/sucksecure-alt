@@ -13,7 +13,6 @@
   <a href="https://heartbleed-vpn.ru"><img src="https://img.shields.io/badge/heartbleed_vpn.ru-privacy-FF2B2B?style=flat-square&labelColor=0D1117" alt="vpn"></a>
   <a href="https://bugbounty.bi.zone/profile/Heartbleed/hackactivity"><img src="https://img.shields.io/badge/BI.ZONE_bug_bounty-30%2B_reports-FF2B2B?style=flat-square&labelColor=0D1117" alt="bizone"></a>
   <a href="https://github.com/sucksecure-alt?tab=followers"><img src="https://img.shields.io/github/followers/sucksecure-alt?style=flat-square&labelColor=0D1117&color=FF2B2B&label=followers&logo=github&logoColor=0D1117" alt="followers"></a>
-  <a href="https://github.com/sucksecure-alt?tab=stars"><img src="https://img.shields.io/github/stars/sucksecure-alt?affiliations=ALL&style=flat-square&labelColor=0D1117&color=FF2B2B&label=stars%20earned&logo=github&logoColor=0D1117" alt="stars"></a>
 </p>
 
 ---
